@@ -26,6 +26,7 @@ The project includes the following components:
 5. **Retriever** – Fetches relevant data  
 6. **LLM (Mistral AI)** – Generates final responses  
 7. **Conversational Chain** – Maintains chat context  
+![Uploading Screenshot 2026-04-07 141911.png…]()
 
 ---
 
