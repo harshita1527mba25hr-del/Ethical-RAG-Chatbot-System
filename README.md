@@ -26,8 +26,7 @@ The project includes the following components:
 7. **Conversational Chain** – Maintains chat context  
 <img width="1827" height="775" alt="image" src="https://github.com/user-attachments/assets/f77a22a1-3b25-476b-80c7-bf755a2c83af" />
 
-
-
+<img width="1890" height="869" alt="Screenshot 2026-04-08 155251" src="https://github.com/user-attachments/assets/d611a881-39d5-4aa8-b7c2-02e107f62dd0" />
 
 ---
 
