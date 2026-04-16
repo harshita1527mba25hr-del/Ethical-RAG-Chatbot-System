@@ -75,6 +75,6 @@ This project demonstrates how RAG can enhance AI reliability by improving factua
 
 ---
 
-## 🙌 Author
+##  Author
 
 Harshita
