@@ -1,3 +1,5 @@
+Ethcal-RAG-Chatbot System
+
 This project implements a **Retrieval-Augmented Generation (RAG) chatbot** using Flowise. It combines document retrieval with Large Language Models (LLMs) to generate accurate, context-aware, and reliable responses.
 
 ---
